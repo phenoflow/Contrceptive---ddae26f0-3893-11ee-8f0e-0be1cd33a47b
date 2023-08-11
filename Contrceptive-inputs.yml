@@ -1,0 +1,81 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/contrceptive-ovran---primary.py
+inputModule3:
+  class: File
+  path: python/contrceptive-cilest---primary.py
+inputModule4:
+  class: File
+  path: python/contrceptive-estradiol---primary.py
+inputModule5:
+  class: File
+  path: python/contrceptive-dianette---primary.py
+inputModule6:
+  class: File
+  path: python/contrceptive-loestrin---primary.py
+inputModule7:
+  class: File
+  path: python/contrceptive-2000microgram---primary.py
+inputModule8:
+  class: File
+  path: python/contrceptive-203microgram---primary.py
+inputModule9:
+  class: File
+  path: python/contrceptive-tablet---primary.py
+inputModule10:
+  class: File
+  path: python/contrceptive-trinovum---primary.py
+inputModule11:
+  class: File
+  path: python/contrceptive-logynon---primary.py
+inputModule12:
+  class: File
+  path: python/minovlar-contrceptive---primary.py
+inputModule13:
+  class: File
+  path: python/contrceptive-50microgram---primary.py
+inputModule14:
+  class: File
+  path: python/contrceptive-femodene---primary.py
+inputModule15:
+  class: File
+  path: python/contrceptive-cocyprindiol---primary.py
+inputModule16:
+  class: File
+  path: python/contrceptive-system---primary.py
+inputModule17:
+  class: File
+  path: python/contrceptive-qlaira---primary.py
+inputModule18:
+  class: File
+  path: python/contrceptive-triminulet---primary.py
+inputModule19:
+  class: File
+  path: python/contrceptive-microgynon---primary.py
+inputModule20:
+  class: File
+  path: python/contrceptive-levest---primary.py
+inputModule21:
+  class: File
+  path: python/contrceptive-millinette---primary.py
+inputModule22:
+  class: File
+  path: python/contrceptive-gedarel---primary.py
+inputModule23:
+  class: File
+  path: python/contrceptive-yasmin---primary.py
+inputModule24:
+  class: File
+  path: python/contrceptive-marvelon---primary.py
+inputModule25:
+  class: File
+  path: python/contrceptive-500microgram---primary.py
+inputModule26:
+  class: File
+  path: python/contrceptive-patches---primary.py
+inputModule27:
+  class: File
+  path: python/output-cases.py
